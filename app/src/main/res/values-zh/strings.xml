@@ -1,0 +1,92 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">知识问答</string>
+
+    <!-- Question one [CHAR LIMIT = 40] -->
+    <string name="question_one">1. 欧盟中哪个国家人口总数最多？</string>
+
+    <!-- Hint for question one [CHAR LIMIT = 20] -->
+    <string name="question_one_hint">请在此输入答案</string>
+
+    <!-- Question two [CHAR LIMIT = 40] -->
+    <string name="question_two">2. 以下国家中哪一个不在申根区？</string>
+
+    <!-- Option one for question two [CHAR LIMIT = 20] -->
+    <string name="question_two_option_one">瑞士</string>
+
+    <!-- Option two for question two [CHAR LIMIT = 20] -->
+    <string name="question_two_option_two">克罗地亚</string>
+
+    <!-- Option three for question two [CHAR LIMIT = 20] -->
+    <string name="question_two_option_three">冰岛</string>
+
+    <!-- Question three [CHAR LIMIT = 40] -->
+    <string name="question_three">4. 欧洲国家中哪一个国家的首都纬度最北？</string>
+
+    <!-- Option one for question three [CHAR LIMIT = 20] -->
+    <string name="question_three_option_one">芬兰</string>
+
+    <!-- Option two for question three [CHAR LIMIT = 20] -->
+    <string name="question_three_option_two">挪威</string>
+
+    <!-- Option three for question two [CHAR LIMIT = 20] -->
+    <string name="question_three_option_three">冰岛</string>
+
+    <!-- Question four [CHAR LIMIT = 40] -->
+    <string name="question_four">4. 以下国家中哪些不属于欧盟？</string>
+
+    <!-- Option one for question four [CHAR LIMIT = 20] -->
+    <string name="question_four_option_one">罗马尼亚</string>
+
+    <!-- Option two for question four [CHAR LIMIT = 20] -->
+    <string name="question_four_option_two">瑞士</string>
+
+    <!-- Option three for question four [CHAR LIMIT = 20] -->
+    <string name="question_four_option_three">爱尔兰</string>
+
+    <!-- Option four for question four [CHAR LIMIT = 20] -->
+    <string name="question_four_option_four">挪威</string>
+
+    <!-- Question five [CHAR LIMIT = 40] -->
+    <string name="question_five">5. 以下国家中哪些不在欧元区？</string>
+
+    <!-- Option one for question five [CHAR LIMIT = 20] -->
+    <string name="question_five_option_one">瑞典</string>
+
+    <!-- Option two for question five [CHAR LIMIT = 20] -->
+    <string name="question_five_option_two">爱尔兰</string>
+
+    <!-- Option three for question five [CHAR LIMIT = 20] -->
+    <string name="question_five_option_three">马耳他</string>
+
+    <!-- Option four for question five [CHAR LIMIT = 20] -->
+    <string name="question_five_option_four">捷克</string>
+
+    <!-- Submit button -->
+    <string name="submit_button">提交</string>
+
+    <!-- Reset button -->
+    <string name="reset_button">重新回答</string>
+
+    <!--
+        Toast to show up the results
+        It will be shown in the format of "Your score is: 40 out of 100" where 40 is the score user gets
+        [CHAR LIMI = NONE]
+    -->
+    <string name="toast_results">满分100，您的得分为 <xliff:g example="40" id="name">%d</xliff:g></string>
+
+    <!-- Right answer of question one -->
+    <string name="right_answer_question_one">德国</string>
+
+    <!-- Right answer of question two -->
+    <string name="right_answer_question_two">克罗地亚</string>
+
+    <!-- Right answer of question three -->
+    <string name="right_answer_question_three">冰岛</string>
+
+    <!-- The "CORRECT" status of user's answer -->
+    <string name="correct_status">正确</string>
+
+    <!-- The "INCORRECT" status of user's answer -->
+    <string name="incorrect_status">错误</string>
+
+</resources>

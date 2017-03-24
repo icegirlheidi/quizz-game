@@ -1,0 +1,92 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quiz App</string>
+
+    <!-- Question one [CHAR LIMIT = 40] -->
+    <string name="question_one">1. What is the largest country by population in European Union?</string>
+
+    <!-- Hint for question one [CHAR LIMIT = 20] -->
+    <string name="question_one_hint">Type your answer here</string>
+
+    <!-- Question two [CHAR LIMIT = 40] -->
+    <string name="question_two">2. Which of the following country is not in Schengen Area?</string>
+
+    <!-- Option one for question two [CHAR LIMIT = 20] -->
+    <string name="question_two_option_one">Switzerland</string>
+
+    <!-- Option two for question two [CHAR LIMIT = 20] -->
+    <string name="question_two_option_two">Croatia</string>
+
+    <!-- Option three for question two [CHAR LIMIT = 20] -->
+    <string name="question_two_option_three">Iceland</string>
+
+    <!-- Question three [CHAR LIMIT = 40] -->
+    <string name="question_three">3. Which country has the northest capical city in Europe</string>
+
+    <!-- Option one for question three [CHAR LIMIT = 20] -->
+    <string name="question_three_option_one">Finland</string>
+
+    <!-- Option two for question three [CHAR LIMIT = 20] -->
+    <string name="question_three_option_two">Norway</string>
+
+    <!-- Option three for question two [CHAR LIMIT = 20] -->
+    <string name="question_three_option_three">Iceland</string>
+
+    <!-- Question four [CHAR LIMIT = 40] -->
+    <string name="question_four">5. Which of the following countries are not in European Union?</string>
+
+    <!-- Option one for question four [CHAR LIMIT = 20] -->
+    <string name="question_four_option_one">Romania</string>
+
+    <!-- Option two for question four [CHAR LIMIT = 20] -->
+    <string name="question_four_option_two">Switzerland</string>
+
+    <!-- Option three for question four [CHAR LIMIT = 20] -->
+    <string name="question_four_option_three">Ireland</string>
+
+    <!-- Option four for question four [CHAR LIMIT = 20] -->
+    <string name="question_four_option_four">Norway</string>
+
+    <!-- Question five [CHAR LIMIT = 40] -->
+    <string name="question_five">4. Which of the following countries are not in Eurozone (€)?</string>
+
+    <!-- Option one for question five [CHAR LIMIT = 20] -->
+    <string name="question_five_option_one">Sweden</string>
+
+    <!-- Option two for question five [CHAR LIMIT = 20] -->
+    <string name="question_five_option_two">Ireland</string>
+
+    <!-- Option three for question five [CHAR LIMIT = 20] -->
+    <string name="question_five_option_three">Malta</string>
+
+    <!-- Option four for question five [CHAR LIMIT = 20] -->
+    <string name="question_five_option_four">Czech Republic</string>
+
+    <!-- Submit button -->
+    <string name="submit_button">Submit</string>
+
+    <!-- Reset button -->
+    <string name="reset_button">Reset</string>
+
+    <!--
+        Toast to show up the results
+        It will be shown in the format of "Your score is: 40 out of 100" where 40 is the score user gets
+        [CHAR LIMI = NONE]
+    -->
+    <string name="toast_results">Your score is: <xliff:g example="40" id="name">%d</xliff:g> out of 100</string>
+
+    <!-- Right answer of question one -->
+    <string name="right_answer_question_one">Germany</string>
+
+    <!-- Right answer of question two -->
+    <string name="right_answer_question_two">Croatia</string>
+
+    <!-- Right answer of question three -->
+    <string name="right_answer_question_three">Iceland</string>
+
+    <!-- The "CORRECT" status of user's answer -->
+    <string name="correct_status">CORRECT</string>
+
+    <!-- The "INCORRECT" status of user's answer -->
+    <string name="incorrect_status">INCORRECT</string>
+
+</resources>
